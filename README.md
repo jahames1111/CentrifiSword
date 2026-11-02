@@ -3,6 +3,7 @@
 
 A repo for my fully extendable 32-inch nylon sword that slides into the handle when not being used. Meant for a Halloween costume.
 
+Onshape link: (https://cad.onshape.com/documents/28e22c98d881d1dc2ccf41c4/w/703995446c7c7ede988d66ce/e/2e5d055d111c7d4ec813a4ad)
 
 Has decorative, illuminated lights around the hilt to give it a cool red glow, powered by one CR2032 battery.
 
