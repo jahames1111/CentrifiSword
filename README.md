@@ -11,6 +11,11 @@ Has 4 ~8-inch segments that will slide out and lock into each other when you fli
 <img width="819" height="739" alt="Screenshot 2026-10-14 182012" src="https://github.com/user-attachments/assets/96b66038-bb6e-4f5a-9f07-94b6f2cac82f" />
 
 Features 4 RED LEDS in the hilt to light up the blade.
+
+
 <img width="424" height="229" alt="Screenshot 2026-10-14 182018" src="https://github.com/user-attachments/assets/a495b2fb-ba2a-4122-bc67-58f0c6ff3d11" />
+
+
+This is going to take only one JLCPCB order, and that order is approximately 21.66 for 2 of them. I am also currently printing one at my house, but it will probably not work because my current 3d printer is old and unreliable (Ender 3 v2)
 
 
