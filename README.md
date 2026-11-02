@@ -1,7 +1,7 @@
 # Extendo - Sword
 <img width="256" height="624" alt="Screenshot 2026-10-14 182025" src="https://github.com/user-attachments/assets/bb439f02-a033-40b3-afb7-5ab72cf9f6d7" />
 
-A repo for my fully extendable 32-inch nylon sword that slides into the handle when not being used. Meant for a Halloween costume.
+A repo for my fully extendable 32-inch nylon sword that slides into the handle when not being used. Meant for a Halloween costume. Exhaustively designed in Onshape.
 
 Onshape link: https://cad.onshape.com/documents/28e22c98d881d1dc2ccf41c4/w/703995446c7c7ede988d66ce/e/86d13b8c46c3f1d5f282b9ea?renderMode=0&uiState=6ae8e49cf03f46e92801e0bf
 
