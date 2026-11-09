@@ -1,4 +1,4 @@
-# Extendo - Sword
+# Centrifisword
 <img width="256" height="624" alt="Screenshot 2026-10-14 182025" src="https://github.com/user-attachments/assets/bb439f02-a033-40b3-afb7-5ab72cf9f6d7" />
 
 A repo for my fully extendable 32-inch nylon sword that slides into the handle when not being used. Meant for a Halloween costume. Exhaustively designed in Onshape.
