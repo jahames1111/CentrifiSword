@@ -9,7 +9,8 @@ Has decorative, illuminated lights around the hilt to give it a cool red glow, p
 1. a handle with an oval-shaped grip, and a square blade with 2 triangles on the ends
 2. 3 8-inch long segments that flick out to about 2.5 ft long
 
-# NOTE FOR REVIEWERS: I know the STEP file has a triangular mesh. The reason for this is that I mainly modeled it in Onshape, but then imported it into Tinkercad to simulate the blades falling out and then modified it slightly.
+## NOTE FOR REVIEWERS: 
+I know the STEP file has a triangular mesh. The reason for this is that I mainly modeled it in Onshape, but then imported it into Tinkercad to simulate the blades falling out and then modified it slightly.
 
 Has 4 ~8-inch segments that will slide out and lock into each other when you flick it out. When not out, everything is contained in the hilt.
 <img width="819" height="739" alt="Screenshot 2026-10-14 182012" src="https://github.com/user-attachments/assets/96b66038-bb6e-4f5a-9f07-94b6f2cac82f" />
