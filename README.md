@@ -19,8 +19,9 @@ Features 4 RED LEDS in the hilt to light up the blade.
 
 <img width="424" height="229" alt="Screenshot 2026-10-14 182018" src="https://github.com/user-attachments/assets/a495b2fb-ba2a-4122-bc67-58f0c6ff3d11" />
 
+# BOM
 
-This is going to take only one JLCPCB order, and that order is approximately 21.66 for 2 of them. I am also currently printing one at my house, but it will probably not work because my current 3d printer is old and unreliable (Ender 3 v2)
+This is where I would normally put the BOM, but as this project is literally just a 3d printed part, I will not put a BOM as I need no money from Half Life because I own a 3d printer and can print it myself. The cost would be about $8 from printing-legion if that matters.
 
 Edit: it printed!
 <img width="3060" height="4080" alt="1000012696" src="https://github.com/user-attachments/assets/478e3634-fd8f-4330-add1-c6c59a61ce54" />
