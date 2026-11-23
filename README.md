@@ -22,9 +22,7 @@ Features 4 RED LEDS in the hilt to light up the blade.
 
 # BOM
 
-This is where I would normally put the BOM, but as this project is literally just a 3d printed part, I will not put a BOM as I need no money from Half Life because I own a 3d printer and can print it myself. The cost would be about $8 from printing-legion if that matters.
-
-Edit: it printed!
+This is where I would normally put the BOM, but as this project is literally just a 3d printed part, I will not put a BOM as I need no money from Half Life because I own a 3d printer and can print it myself. The cost would be about $8 by weight using [this product on amazon](https://www.amazon.com/Creality-Filament-Printing-No-Tangling-Performance/dp/B0C4TNQZYY/ref=sr_1_2?crid=1H64QS7KS2UIT&dib=eyJ2IjoiMSJ9.0uHIvFsXfieyUlpOv8_8B1QIQ9KhDGmSavSatv7Km6bFdvsSEqHMAMayaO79Qvmw7Kn9WJ0piPGUmvXBzll9jWHeXeuoFtTzG89WQngItrplVlog0EC5clhLGPtAXVUo2TCl8GGR4RJeD86u3ZB72kvXaL4QunS8h2g5pKedAGFTRzxexdhzKaYDfvfHnLlfyIHdHU7v4fcWH9Vazb0vthbjZepxPOOGal-1IaaL6k0k-my5-kXqp30duAXN7SKwhdEK2B18bCQudoU0x8xqUy7yrI0mo7EScQo2mdhlrK0.7uXkfalvlDTIwtpMJcrR4I6MkHsBTzw1mSRryTMOlOA&dib_tag=se&keywords=ender%2Bpla%2Bfilament&qid=1795392664&s=industrial&sprefix=ender%2Bpla%2Bfilament%2Cindustrial%2C159&sr=1-2&th=1).
 <img width="3060" height="4080" alt="1000012696" src="https://github.com/user-attachments/assets/478e3634-fd8f-4330-add1-c6c59a61ce54" />
 <img width="666" height="375" alt="Untitled Design (1)" src="https://github.com/user-attachments/assets/743a7d59-45cd-473e-98bf-679e91ddb8d2" />
 
